@@ -7,3 +7,8 @@ edition = "2018"
 [dependencies]
 pyo3 = "0.7.0"
 notify = "4.0"
+piet = "0.0.2"
+piet-common = "0.0.2"
+kurbo = "0.2.2"
+druid = { git = "https://github.com/xi-editor/druid.git" }
+druid-shell = { git = "https://github.com/xi-editor/druid.git" }
